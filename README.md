@@ -6,6 +6,8 @@
 
 This repository is the official code for the paper **"M-CIF: MULTI-SCALE ALIGNMENT FOR CIF-BASED NON-AUTOREGRESSIVE ASR"**. This method enhances multi-scale alignment in CIF-based non-autoregressive Automatic Speech Recognition (ASR) for English, French, and German.
 
+![](./pic/main.png)
+
 Both model training and inference are built on the **FunASR** toolkit. The main method code can be found at:
 
 - `FunASR/funasr/models/paraformer/cif_predictor.py`
